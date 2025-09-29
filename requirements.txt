@@ -1,6 +1,6 @@
 pandas
 uvicorn[standard]
 fastapi
-sklearn
+scikit-learn
 numpy
 joblib
