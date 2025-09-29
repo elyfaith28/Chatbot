@@ -1,0 +1,6 @@
+pandas
+uvicorn[standard]
+fastapi
+sklearn
+numpy
+joblib
